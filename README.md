@@ -24,6 +24,4 @@ Este projeto é uma calculadora simples desenvolvida com React. Ele tem a capaci
 - React
 - CSS
 
-## Estrutura do projeto
 
-```
