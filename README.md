@@ -20,7 +20,7 @@ Este projeto é uma calculadora simples desenvolvida com React. Ele tem a capaci
 4. Execute o comando `npm start` para iniciar o servidor local
 
 ## Tecnologias utilizadas
-
+-JavaScript
 - React
 - CSS
 
